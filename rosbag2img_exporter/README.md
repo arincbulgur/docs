@@ -10,6 +10,9 @@ sudo apt-get install mjpegtools
 ```
 
 Run `bag2img_export.launch` file to export individual jpeg files under `.ros` in your home directory.
+```
+roslaunch bag2img_export.launch
+```
 
 The image file can be moved to any desired directory as follows:
 
